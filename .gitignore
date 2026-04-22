@@ -1,0 +1,30 @@
+# System
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Applications
+MarkText.app/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.bak
+*~

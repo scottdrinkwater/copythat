@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(gsd-quick)",
+      "Skill(gsd-quick:*)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: AI copywriting toolkit with Claude skills *)",
+      "Bash(git push *)"
+    ]
+  }
+}

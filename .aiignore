@@ -1,0 +1,17 @@
+# Documentation & setup
+README.md
+docs/setup.md
+docs/SKILLS-GUIDE.md
+
+# Applications
+MarkText.app/
+
+# System & IDE
+.DS_Store
+.idea/
+*.iml
+
+# Dependencies
+node_modules/
+.env
+.env.local
