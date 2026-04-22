@@ -8,14 +8,20 @@ Votre espace de travail Claude Code pour la rédaction web, le SEO et l'optimisa
 
 ### Installation
 
-Clonez le dépôt et ouvrez-le dans Claude Code :
+**Option 1 — Téléchargement direct (recommandé)**
+
+1. Téléchargez le fichier ZIP depuis la [dernière version](https://github.com/scottdrinkwater/copythat/releases/latest) (cliquez sur « Source code (zip) »)
+2. Décompressez le dossier
+3. Ouvrez [Claude Code](https://claude.com/claude-code), puis ouvrez ce dossier
+
+Tous les skills sont prêts à l'emploi — aucune configuration supplémentaire nécessaire.
+
+**Option 2 — Via Git (utilisateurs techniques)**
 
 ```bash
 git clone git@github.com:scottdrinkwater/copythat.git
 cd copythat
 ```
-
-Ouvrez ensuite ce dossier dans [Claude Code](https://claude.com/claude-code). Tous les skills sont prêts à l'emploi — aucune configuration supplémentaire nécessaire.
 
 ### Ce que Claude peut faire
 
@@ -71,14 +77,20 @@ Your Claude Code workspace for website copywriting, SEO, and LLM optimisation.
 
 ### Installation
 
-Clone the repository and open it in Claude Code:
+**Option 1 — Direct download (recommended)**
+
+1. Download the ZIP from the [latest release](https://github.com/scottdrinkwater/copythat/releases/latest) (click "Source code (zip)")
+2. Unzip the folder
+3. Open [Claude Code](https://claude.com/claude-code), then open that folder
+
+All skills are ready to use immediately — no additional setup needed.
+
+**Option 2 — Via Git (technical users)**
 
 ```bash
 git clone git@github.com:scottdrinkwater/copythat.git
 cd copythat
 ```
-
-Then open this folder in [Claude Code](https://claude.com/claude-code). All skills are ready to use immediately — no additional setup needed.
 
 ### What Claude can help with
 
