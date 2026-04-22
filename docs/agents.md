@@ -10,6 +10,10 @@ Ces outils spécialisés sont intégrés à Claude Code. Chacun gère un type de
 
 Ces compétences se déclenchent automatiquement quand vous demandez à Claude d'écrire ou d'optimiser quelque chose. Inutile de les appeler par leur nom.
 
+**Audit SEO**
+Ce que ça fait : audit complet d'une URL — SEO technique, préparation GEO/AEO (citation IA) et audit du texte. Inspecte balise titre, méta description, structure des titres, données structurées, liens internes et signaux de performance. Produit un rapport noté avec un top 5 des priorités et des actions rapides.
+Comment l'utiliser : « Audite cette URL pour le SEO et l'optimisation IA : [url] »
+
 **Texte web SEO**
 Ce que ça fait : rédige du contenu web optimisé pour le référencement — pages de service, pages locales, accueil, à propos. Inclut balise titre, méta description, H1, corps de texte et FAQ. Suit la hiérarchie des mots-clés et les principes E-E-A-T.
 Comment l'utiliser : « Rédige une page de service ciblant "copywriter freelance Manchester". Audience : entreprises tech B2B. »
@@ -83,6 +87,10 @@ These are specialist tools built into Claude Code. Each one handles a specific c
 ### Writing Skills
 
 These load automatically when you ask Claude to write or optimise something. You don't need to call them by name.
+
+**SEO Audit**
+What it does: full audit of a live URL — technical SEO, GEO/AEO readiness (AI citation signals), and a complete copy review. Checks title tag, meta description, heading structure, structured data, internal links, and performance signals. Produces a scored report with a top 5 priority list and quick wins.
+How to use: "Audit this URL for SEO and AI optimisation: [url]"
 
 **SEO Web Copy**
 What it does: writes website copy that ranks — service pages, location pages, homepages, about pages. Includes title tag, meta description, H1, body copy, and FAQ section. Follows keyword hierarchy and E-E-A-T principles.
