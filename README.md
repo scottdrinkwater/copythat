@@ -6,7 +6,16 @@
 
 Votre espace de travail Claude Code pour la rédaction web, le SEO et l'optimisation LLM.
 
-**Première utilisation ?** Suivez le [guide d'installation](docs/setup.md) (5 minutes) pour activer tous les outils.
+### Installation
+
+Clonez le dépôt et ouvrez-le dans Claude Code :
+
+```bash
+git clone git@github.com:scottdrinkwater/copythat.git
+cd copythat
+```
+
+Ouvrez ensuite ce dossier dans [Claude Code](https://claude.com/claude-code). Tous les skills sont prêts à l'emploi — aucune configuration supplémentaire nécessaire.
 
 ### Ce que Claude peut faire
 
@@ -60,7 +69,16 @@ Les brouillons peuvent aussi être enregistrés dans le dossier client — ex. `
 
 Your Claude Code workspace for website copywriting, SEO, and LLM optimisation.
 
-**First time here?** Follow the [setup guide](docs/setup.md) (5 minutes) to unlock the full set of tools.
+### Installation
+
+Clone the repository and open it in Claude Code:
+
+```bash
+git clone git@github.com:scottdrinkwater/copythat.git
+cd copythat
+```
+
+Then open this folder in [Claude Code](https://claude.com/claude-code). All skills are ready to use immediately — no additional setup needed.
 
 ### What Claude can help with
 
