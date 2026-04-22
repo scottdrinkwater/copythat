@@ -1,14 +1,3 @@
 # Documentation & setup
 README.md
-docs/setup.md
 docs/SKILLS-GUIDE.md
-
-# System & IDE
-.DS_Store
-.idea/
-*.iml
-
-# Dependencies
-node_modules/
-.env
-.env.local
