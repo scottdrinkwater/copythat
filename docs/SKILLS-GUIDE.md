@@ -138,14 +138,6 @@ Lis la skill seo-web-copy.md et explique-moi comment elle structure une page Web
 
 Claude lira la skill et vous l'expliquera en langage simple.
 
-### **Méthode 2 : Ouvrir le fichier dans MarkText**
-
-1. Ouvrez MarkText
-2. Allez à **File** → **Open**
-3. Naviguez jusqu'à `.claude/skills/`
-4. Ouvrez le fichier que vous voulez voir (par exemple, `seo-web-copy.md`)
-5. Lisez le fichier comme n'importe quel document
-
 ---
 
 ## ✏️ Comment Éditer une Skill Existante
@@ -165,13 +157,6 @@ C'est la méthode la plus sûre pour les utilisateurs non-techniques.
    - Qu'est-ce que tu veux changer ?
 
 3. Suivez les instructions et Claude mettra à jour la skill pour vous.
-
-### **Méthode 2 : Éditer directement dans MarkText**
-
-1. Ouvrez la skill dans MarkText (voir ci-dessus)
-2. Apportez vos modifications
-3. Sauvegardez le fichier (Cmd+S ou Ctrl+S)
-4. Redémarrez Claude Code
 
 ---
 
@@ -354,14 +339,6 @@ Read the seo-web-copy.md skill and explain how it structures a web page.
 
 Claude will read the skill and explain it in plain language.
 
-### **Method 2: Open the file in MarkText**
-
-1. Open MarkText
-2. Go to **File** → **Open**
-3. Navigate to `.claude/skills/`
-4. Open the file you want to see (e.g., `seo-web-copy.md`)
-5. Read it like any document
-
 ---
 
 ## ✏️ How to Edit an Existing Skill
@@ -381,13 +358,6 @@ This is the safest method for non-technical users.
    - What do you want to change?
 
 3. Follow the instructions and Claude will update the skill for you.
-
-### **Method 2: Edit directly in MarkText**
-
-1. Open the skill in MarkText (see above)
-2. Make your changes
-3. Save the file (Cmd+S or Ctrl+S)
-4. Restart Claude Code
 
 ---
 

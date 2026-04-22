@@ -11,9 +11,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Applications
-MarkText.app/
-
 # Environment
 .env
 .env.local
